@@ -1,0 +1,43 @@
+body{
+    background: linear-gradient(to right, #e2e2e2, #c9d5ff);
+}
+.principal{
+    margin-top: 7%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.coluna{
+    flex-direction: column;
+}
+
+.video{
+    background-color: black;
+    margin-right: 10%;
+    width: 550px;
+    height: 350px;
+    border-radius: 60px;
+}
+.perfil{
+    display: flex;
+    background-color: aqua;
+    width: 550px;
+    height: 100px;
+    border-radius: 60px;
+    align-items: center;
+    justify-content: center;
+    gap: 40%;
+}
+.pagamento{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    background-color: aliceblue;
+    width: 550px;
+    height: 100px;
+    border-radius: 60px;
+    align-items: center;
+    justify-content: center;
+    gap: 40%;
+}
