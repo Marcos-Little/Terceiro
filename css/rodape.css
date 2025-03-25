@@ -1,0 +1,32 @@
+.rodape{
+    background-color: #336fa1;
+    display: flex;
+    margin-top: 123px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    color: #131B23;
+    border-top: #71b7da 3px solid;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.rodape .linha{
+    display: flex;
+}
+.rodape .linha a{
+    display: flex;  
+    color: #131B23;
+}
+.rodape .lista{
+    list-style: none;
+}
+.rodape .linha img{
+    width: 25px;
+    height: 25px;
+    margin-right: 3px;
+}
+.meio{
+    margin-left: 150px;
+    margin-right: 150px;
+}
